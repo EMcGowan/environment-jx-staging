@@ -14,6 +14,9 @@ dependencies:
 - name: cloud-native-poc-pdf
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.25
+- name: cloud-native-poc-pdf-producer-client
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.6
 - name: cloud-native-poc-zookeeper
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.32
