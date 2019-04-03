@@ -10,7 +10,7 @@ dependencies:
   version: 0.0.2
 - name: cloud-native-poc-kafka-exporter
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.2
+  version: 0.0.4
 - name: cloud-native-poc-kafka-pdf-consumer
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.5
